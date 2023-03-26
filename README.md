@@ -12,14 +12,14 @@ As simulações desenvolvidas durante a disciplina estão organizadas em pastas,
 
 As simulações disponíveis neste repositório incluem:
 <ul>
-<li>Transformada de Fourier discreta<\li>
+<li>Transformada de Fourier discreta</li>
 Filtro digital FIR
 Filtro digital IIR
 Análise espectral de sinais
 Processamento de sinais de voz
 Reconhecimento de padrões em sinais
 Como usar as simulações
-<\ul>
+</ul>
 Para utilizar as simulações disponíveis neste repositório, é necessário ter o MATLAB e/ou o Python instalados em sua máquina. Além disso, é preciso ter conhecimento básico em programação nessas linguagens.
 
 Para executar uma simulação, basta navegar até a pasta correspondente e abrir o arquivo principal (geralmente com extensão .m ou .py) em seu ambiente de desenvolvimento MATLAB e/ou Python. Em seguida, siga as instruções contidas no arquivo README da pasta para executar a simulação desejada.
