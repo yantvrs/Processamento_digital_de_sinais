@@ -25,4 +25,4 @@ Para utilizar as simulações disponíveis neste repositório, é necessário te
 Para executar uma simulação, basta navegar até a pasta correspondente e abrir o arquivo principal (geralmente com extensão .m ou .py) em seu ambiente de desenvolvimento MATLAB e/ou Python. Em seguida, siga as instruções contidas no arquivo README da pasta para executar a simulação desejada.
 
 # Licença
-Este repositório é licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+Este repositório é licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações sobre a licença.
