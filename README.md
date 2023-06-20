@@ -10,17 +10,7 @@ Além da parte teórica, a disciplina também envolve a implementação de algor
 # Simulações
 As simulações desenvolvidas durante a disciplina estão organizadas em pastas, de acordo com o tópico abordado em cada uma delas. Cada pasta contém o código desenvolvido em MATLAB e/ou Python, bem como um arquivo README com uma breve explicação sobre a simulação.
 
-As simulações disponíveis neste repositório incluem:
-<ul>
-<li>Transformada de Fourier discreta</li>
-<li>Filtro digital FIR</li>
-<li>Filtro digital IIR</li>
-<li>Análise espectral de sinais</li>
-<li>Processamento de sinais de voz</li>
-<li>Reconhecimento de padrões em sinais</li>
-<li>Como usar as simulações</li>
-</ul>
-Para utilizar as simulações disponíveis neste repositório, é necessário ter o MATLAB e/ou o Python instalados em sua máquina. Além disso, é preciso ter conhecimento básico em programação nessas linguagens.
+Para utilizar as simulações disponíveis neste repositório, é necessário ter o Python instalado em sua máquina. Além disso, é preciso ter conhecimento básico em programação nessa linguagem.
 
 Para executar uma simulação, basta navegar até a pasta correspondente e abrir o arquivo principal (geralmente com extensão .m ou .py) em seu ambiente de desenvolvimento MATLAB e/ou Python. Em seguida, siga as instruções contidas no arquivo README da pasta para executar a simulação desejada.
 
